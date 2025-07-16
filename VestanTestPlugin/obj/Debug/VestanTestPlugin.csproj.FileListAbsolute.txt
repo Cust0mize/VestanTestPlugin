@@ -6,3 +6,4 @@ C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanT
 C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.csproj.CoreCompileInputs.cache
 C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.dll
 C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.pdb
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.sourcelink.json

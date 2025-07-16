@@ -1,4 +1,5 @@
 using VestanTestPlugin.Modules.CoreModule.LocatorFactory;
+using VestanTestPlugin.Modules.PostModule.Commands;
 using System.Collections.Generic;
 using System;
 
@@ -14,11 +15,11 @@ public class VestanPlugin {
     private VestanPlugin() {
     }
 
-    public void Initialize(BaseLocatorFactory[] baseLocatorFactories = null) {
+    public void Initialize(List<IPostCommand> commands = null, BaseLocatorFactory[] baseLocatorFactories = null) {
         List<BaseLocatorFactory> factories = new List<BaseLocatorFactory>
         {
             new HttpClientFactory(),
-            new PostServiceFactory()
+            new PostServiceFactory(commands)
         };
 
         if (baseLocatorFactories != null && baseLocatorFactories.Length > 0) {
