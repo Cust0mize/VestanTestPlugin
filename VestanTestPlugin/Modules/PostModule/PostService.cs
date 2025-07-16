@@ -29,7 +29,7 @@ namespace VestanTestPlugin.Modules.PostModule {
             IPostCommand<TParam, TResult> concreteCommand = FindCommand<IPostCommand<TParam, TResult>>();
 
             if (concreteCommand == null) {
-                throw new ArgumentException($"Command with parameter {typeof(TParam).Name} returning {typeof(TResult).Name} not found");
+                throw new ArgumentException($"Command {typeof(TParam).Name} returning {typeof(TResult).Name} not found");
             }
 
             return await concreteCommand.ExecuteAsync(parameter);
