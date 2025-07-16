@@ -26,3 +26,5 @@
 - Каждая операция оформлена в виде команды (`IPostCommand`)
 - Внедрение зависимостей выполнено вручную через `LocatorFactory`
 - Используется `System.Net.Http` для выполнения HTTP-запросов
+
+[Unity Project](https://github.com/Cust0mize/VestanTestUnityProject)
