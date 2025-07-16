@@ -1,0 +1,17 @@
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\net8.0\VestanTestPlugin.exe
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\net8.0\VestanTestPlugin.deps.json
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\net8.0\VestanTestPlugin.runtimeconfig.json
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\net8.0\VestanTestPlugin.dll
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\net8.0\VestanTestPlugin.pdb
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTestPlugin.csproj.AssemblyReference.cache
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTestPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTestPlugin.AssemblyInfoInputs.cache
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTestPlugin.AssemblyInfo.cs
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTestPlugin.csproj.CoreCompileInputs.cache
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTe.FE78063F.Up2Date
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTestPlugin.dll
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\refint\VestanTestPlugin.dll
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTestPlugin.pdb
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\VestanTestPlugin.genruntimeconfig.cache
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\net8.0\ref\VestanTestPlugin.dll

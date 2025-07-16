@@ -1,0 +1,8 @@
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\VestanTestPlugin.deps.json
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\VestanTestPlugin.dll
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\bin\Debug\VestanTestPlugin.pdb
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.csproj.AssemblyReference.cache
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.csproj.CoreCompileInputs.cache
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.dll
+C:\Users\geniy\RiderProjects\VestanTestPlugin\VestanTestPlugin\obj\Debug\VestanTestPlugin.pdb
